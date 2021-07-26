@@ -6,7 +6,7 @@ We will start of with an overview of all the data combined, then dive deeper in 
 #### Overview of data
 When you look at the following chart, you will be able to see which city type has the largest number of rides per city and average cost of rides per city type.
 
-                ![Fig1](https://user-images.githubusercontent.com/83738699/126915730-9bde8c7e-1a40-44a9-a565-522d89e9b7ab.png) 
+![Fig1](https://user-images.githubusercontent.com/83738699/126915730-9bde8c7e-1a40-44a9-a565-522d89e9b7ab.png) 
 
 The Urban area clearly has a large number of rides at a lower fare per city, while the Rural area is all over the place with fewer rides at mostly a higher cost. Suburban however is fairly steady among cities in the average fare range of 27 to 35 and from 12 to 23 rides per city. At a quick glace, the information in the chart tells me that ride sharing is most commonly used with in the city limits and can be attributed to  shorter travel distances causing a lower cost. Rural areas tend to have to travel a longer distance to reach the destination causing a higher fare per ride.
 ####  Ride count data and Ride fare data
