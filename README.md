@@ -22,7 +22,7 @@ When to take in to account the number of driver per city type. Urban areas have 
 
 ![Fig4](https://user-images.githubusercontent.com/83738699/126920575-88c3f874-f771-4663-9fa1-dbb8f9705995.png)
 
-Suburban areas are looking steady and the drive per ride is appropriate considering the fare rate. This could allow for drivers to make more while still getting a good ROI.
+Suburban areas are looking steady and the driver per ride is appropriate considering the fare rate. This could allow for drivers to make more while still getting a good ROI, looking in to adding a few addition drivers in Suburban areas would help with ease of access.
 
 Looking over the first four months of the year, Urban areas definitely had the highest fares overall. There seems to be a spike towards the end of February and then a hard drop for all areas. 
 
